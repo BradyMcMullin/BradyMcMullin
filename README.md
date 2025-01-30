@@ -6,9 +6,9 @@ I am a dedicated Junior Computer Science major with a strong inclination towards
 
 Current Projects:
 
-Project 1: N/A
+Project 1: Chess
 
-Project 2: N/A
+Project 2: Recipe_Book
 
 Skills:
 
